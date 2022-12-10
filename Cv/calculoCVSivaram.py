@@ -9,13 +9,11 @@
 # Master en Matemática Computacional UJI
 # MAster en Ingeniería del Terreno UCO
 
-
 import math
 
-
+# encabezado con infoemación del programa
 print("Cálculo del coeficiente de consolidación vertical ")
 print("Método computacional según B.Sivaram y Prabhata, R Swamee")
-
 
 # entrada de los datos del ensayo
 
