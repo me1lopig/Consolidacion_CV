@@ -12,6 +12,11 @@
 
 import math
 
+
+print("Cálculo del coeficiente de consolidación vertical ")
+print("Método computacional según B.Sivaram y Prabhata, R Swamee")
+
+
 # entrada de los datos del ensayo
 
 d1=float(input("Lectura 1 de la zona de inicio de la consolidacion "))
